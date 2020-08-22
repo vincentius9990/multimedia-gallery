@@ -2,7 +2,7 @@
 <b>SUMMARY<b><br>
 This website is developed to upload multimedia by user login. The multimedia are basically memes which can be videos, gif or images. The user is provided required to create an account before uploading the multimedia. there are various categories of the memes which can be accessed without the user l<<b>b>ogin.
 <br>
-<b>FUNCTIONAL REQUIREMENTS<b>
+<br><b>FUNCTIONAL REQUIREMENTS<b><br>
 <br><b>User login<b>
 Description of feature<br>
 1)This feature used by the user to login into system. They are required to enter user id and password before they are allowed to enter the system. The user id and password will be verified and if invalid id is there user is allowed to not enter the system.<br>
@@ -24,7 +24,7 @@ Description of the feature<br>
 <br><b>logout<b><br>
 1)The logout button helps to end the session and the account of the person is closed.
 <br>
-<b>NON-FINCTIONAL REQUIREMENTS<b><br>
+<br><b>NON-FINCTIONAL REQUIREMENTS<b><br><br>
 1)xampp<br>
 2)visual studio code
 <br>
