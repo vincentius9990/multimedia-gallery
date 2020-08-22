@@ -1,0 +1,44 @@
+<html>
+<head>
+</head>
+<body>
+<style>
+.column
+{
+    margin:2px;
+    display:inline-block;
+      }
+    .column embed{
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.column embed:hover{
+  opacity: 1;
+}
+.row h
+{
+color:red;
+font-size:30px;
+}
+
+</style>
+<div class="row">
+<h>GALLERY</h><br>
+<div class='column'><embed src="mclaren720s.jpg" width="200" height="200" onclick="myFunction(this);"></div>
+<div class='column'><embed src="rammandir.webm" width="200" height="200" onclick="myFunction(this);"></div>
+<div class='column'><embed src="8888..k.jpg"  width="200" height="200" onclick="myFunction(this);"></div>
+</div> 
+<!-- The expanding image container -->
+<div class="container">
+  <!-- Close the image -->
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
+  <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
+  <div id="imgtext"></div>
+</div>
+</body>
+</html>
