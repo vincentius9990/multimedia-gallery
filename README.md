@@ -1,6 +1,6 @@
 # multimedia gallery
 <b>SUMMARY<b><br>
-This website is developed to upload multimedia by user login. The multimedia are basically memes which can be videos, gif or images. The user is provided required to create an account before uploading the multimedia. there are various categories of the memes which can be accessed without the user l<<b>b>ogin.
+This website is developed to upload multimedia by user login. The multimedia are basically memes which can be videos, gif or images. The user is provided required to create an account before uploading the multimedia. there are various categories of the memes which can be accessed without the user login.
 <br>
 <br><b>FUNCTIONAL REQUIREMENTS<b><br>
 <br><b>User login<b>
