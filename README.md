@@ -33,6 +33,5 @@ Description of the feature<br>
 <h>this is form for creating account  <img src="/project screenshot/(create account)ca.php.png">
  <h>this is form for signin <img src="/project screenshot/(signin)sign.php.png">
   this is for uploading<img src="/project screenshot/upload.php.png">
- <img src="/project screenshot/upload1.php.png">
-this page displays the media(images/video/gif) based on category selection.<img src="/project screenshot/categories.png">
+this page displays the media(images/video/gif) based on category selection.<img src="/project screenshot/category.png">
   
