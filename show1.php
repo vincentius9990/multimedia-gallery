@@ -18,9 +18,8 @@
 </div></li>
 <li><a href="http://localhost/phpt/sign.php">sign up</a></li>
 <li><a href="http://localhost/phpt/ca.php">create account</a></li>
-<li><a href="http://localhost/phpt/logout.php">log out</a></li>
 </ul>
-<div class="home"><a href="http://localhost/phpt/gallery.php">CHUCKLESSOME.COM</a></div>
+<div class="home"><a href="http://localhost/phpt/index.php">CHUCKLESSOME.COM</a></div>
 </div>
 <style>
 .column
