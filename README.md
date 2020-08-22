@@ -2,8 +2,8 @@
 <b>SUMMARY<b><br>
 This website is developed to upload multimedia by user login. The multimedia are basically memes which can be videos, gif or images. The user is provided required to create an account before uploading the multimedia. there are various categories of the memes which can be accessed without the user l<<b>b>ogin.
 <br>
-<b>FUNCTIONAL REQUIREMENTS<b><br>
-<br><b>User login<b><br> 
+<b>FUNCTIONAL REQUIREMENTS<b>
+<b>User login<b><br> 
 Description of feature<br>
 This feature used by the user to login into system. They are required to enter user id and password before they are allowed to enter the system. The user id and password will be verified and if invalid id is there user is allowed to not enter the system.<br>
 2)In case the user has not created account then an error message is showed saying “create account” and the link for the same is also provided.<br>
@@ -29,4 +29,10 @@ Description of the feature<br>
 2)visual studio code
 <br>
 <b>SCREENSHOTS<b><br>
-  <img src="/project screenshot/index.php" >
+<h>This is homepage  <img src="/project screenshot/index.php.png" >
+<h>this is form for creating account  <img src="/project screenshot/(create account)ca.php.png">
+ <h>this is form for signin <img src="/project screenshot/(signin)sign.php.png">
+  this is for uploading<img src="/project screenshot/upload.php.png">
+  <img src="/project screenshot/upload1.php.png">
+this page displays the media(images/video/gif) based on category selection.<img src="/project screenshot/categories.png">
+  
