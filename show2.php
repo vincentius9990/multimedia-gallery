@@ -1,27 +1,8 @@
 <html>
 <head>
 <title>categories</title>
-<link href="index.css" rel="stylesheet">
 </head>
 <body>
-<div class="categories">
-<ul>
-<li>
-<div class="dropdown">
-  <span><b>categories</b></span>
-  <div class="dropdown-content">
-  <a href="http://localhost/phpt/show1.php">dank</a><br><div>
-  <a href="http://localhost/phpt/show2.php">classics</a><br><div>
-  <a href="http://localhost/phpt/show3.php">savage</a><br><div>
-  <a href="http://localhost/phpt/show4.php">epic fails</a><br><div>
-  </div>
-</div></li>
-<li><a href="http://localhost/phpt/sign.php">sign up</a></li>
-<li><a href="http://localhost/phpt/ca.php">create account</a></li>
-</ul>
-<div class="home"><a href="http://localhost/phpt/index.php">CHUCKLESSOME.COM</a></div>
-</div>
-
 <style>
 .column
 {
